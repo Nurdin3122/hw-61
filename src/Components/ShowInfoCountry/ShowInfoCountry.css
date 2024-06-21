@@ -1,0 +1,28 @@
+.block-info-country{
+    display: flex;
+    margin-left: 100px;
+    flex-direction: column;
+}
+
+.header {
+    display: flex;
+}
+.block-1-info-country {
+    margin-right: 30px;
+
+
+}
+
+.block-2-info-country {
+    text-align: center;
+
+}
+
+.flag-block {
+
+}
+
+.flag {
+    max-width: 300px;
+    max-height: 300px;
+}
