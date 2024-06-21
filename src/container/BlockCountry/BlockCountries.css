@@ -1,0 +1,17 @@
+.main-block {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+}
+
+
+.block-countries{
+    width: 30%;
+    background-color: #f4f4f4;
+    padding: 20px;
+    box-sizing: border-box;
+    height: 100vh;
+    overflow-y: auto;
+    position: fixed;
+    text-align: center;
+}
